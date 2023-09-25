@@ -1,1 +1,2 @@
 # quiz-website
+A MERN stack quiz website offers users an interactive platform for creating, taking, and managing quizzes. It features user-friendly quiz creation, rich multimedia support, leaderboards, and robust user authentication. Users can easily find quizzes, receive instant feedback, and engage with a community through comments and reviews. The website's responsive design ensures accessibility across devices.
